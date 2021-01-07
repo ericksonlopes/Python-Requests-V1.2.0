@@ -1,0 +1,3 @@
+pip install requests
+
+04 -> pip install Pillow \ pip install StringIO
