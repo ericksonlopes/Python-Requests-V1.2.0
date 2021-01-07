@@ -12,4 +12,6 @@ r = requests.get("http://httpbin.org/get", params=payload)
 
 print(r.url)
 
+print(r.text)
+
 
